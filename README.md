@@ -14,7 +14,7 @@ Raspberry Pi based car backup camera, streaming live video to your smart phone.
 
 # RPi Setup
 1. Install NOOBs image on SD card and follow directions for setup [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/3)
-  * Raspian Full Image
+    * Raspian Full Image
 2. 
 
 to be continued
