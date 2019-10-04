@@ -18,7 +18,7 @@ Raspberry Pi based car backup camera, streaming live video to your smart phone.
 2. Update Raspian, ensure ssh is enabled
 3. Configure WiFi to run in Access Point mode to create a local wifi network: [here](https://thepi.io/how-to-use-your-raspberry-pi-as-a-wireless-access-point/) - Note: can skip step 8
 4. Now, when booting the Pi, it should create the wifi network and you should be able to join with your phone/computer
-5. [Command to generate H.264 raw video stream and place in init files]
+5. [Command to generate H.264 raw video stream and place in init files in the python script]
 
 # Mobile App Setup
 1. Download Android App: https://play.google.com/store/apps/details?id=ca.frozen.rpicameraviewer&hl=en_US
